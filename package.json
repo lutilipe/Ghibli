@@ -1,0 +1,8 @@
+{
+  "name": "Ghibli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lutilipe/Ghibli.git",
+  "author": "lutilipe <lutilipe02@hotmail.com>",
+  "license": "MIT"
+}
